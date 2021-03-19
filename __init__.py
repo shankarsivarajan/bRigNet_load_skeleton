@@ -22,7 +22,7 @@ bl_info = {
     "author": "Shankar Sivarajan", # Mostly Paolo Acampora.
     "blender": (2, 92, 0),
     "description": "bRigNet: load RigNet skeleton",
-    "location": "Armature properties",
+    "location": "3D View Sidebar > bRigNet tab",
     "doc_url": "https://github.com/pKrime/brignet",
     "category": "Rigging",
 }
