@@ -5,10 +5,10 @@ This is directly from https://github.com/pKrime/brignet. Use https://github.com/
 
 # Instructions
 
-Download repository as .zip and install addon.
+- Download repository as .zip and install addon.
 
-Access the "Load Skeleton" panel from the bRigNet tab in the 3D view sidebar.
+- Access the "Load Skeleton" panel from the bRigNet tab in the 3D view sidebar.
 
-Enter the location of the mesh ("/path/to/example.obj") and the associated RigNet skeleton ("/path/to/example_rig.txt").
+- Enter the location of the mesh ("/path/to/example.obj") and the associated RigNet skeleton ("/path/to/example_rig.txt").
 
-Click "Load rignet character."
+- Click "Load rignet character."
