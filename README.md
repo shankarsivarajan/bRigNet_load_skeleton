@@ -9,6 +9,6 @@ This is directly from [pKrime's bRigNet](https://github.com/pKrime/brignet). Use
 
 - Access the "Load Skeleton" panel from the bRigNet tab in the 3D view sidebar.
 
-- Enter the location of the mesh ("/path/to/example.obj") and the associated RigNet skeleton ("/path/to/example_rig.txt").
+- Enter the location of the mesh ("`/path/to/example.obj`") and the associated RigNet skeleton ("`/path/to/example_rig.txt`").
 
 - Click "Load rignet character."
